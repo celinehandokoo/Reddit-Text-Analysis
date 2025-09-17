@@ -1,0 +1,1 @@
+Python project leveraging the PRAW API to collect posts and comments from r/WallStreetBets. Includes data cleaning, preprocessing, and natural language processing techniques to perform sentiment analysis, descriptive statistics, and topic modeling (LDA). Highlights community sentiment trends and uncovers major discussion themes.
